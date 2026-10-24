@@ -14,9 +14,9 @@ Version Control & Collaboration: GitHub
 Team Members & Roles:
 
 Mohab Abdelnasser Mahmoud (Project Lead & Data Engineer)
-Rahma Mahmoud (Supply Chain & Delivery Analyst)
-Salma Osama (Financial & Sales Analyst)
-Sawsan Mohamed (Geographic & Customer Segmentation Analyst)
+- Rahma Mahmoud (Supply Chain & Delivery Analyst)
+- Salma Osama (Financial & Sales Analyst)
+- Sawsan Mohamed (Geographic & Customer Segmentation Analyst)
 
 
 Dataset & Key Fields:
