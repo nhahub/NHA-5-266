@@ -28,7 +28,9 @@ Product Information: Product Name, Category Name, Product Price
 Key Dashboard Pages & Features:
 
 1- Financial & Sales Overview: Highlights total sales, order profit margins, top-performing product categories, and department performance.
+
 2- Supply Chain & Delivery Operations: Evaluates shipping efficiency, compares scheduled vs. real shipping days, and monitors late delivery risk drivers.
+
 3- Customer & Geographic Analysis: Visualizes regional sales distribution and customer concentrations globally using map integrations.
 
 Future Enhancements:
