@@ -5,15 +5,15 @@ This project focuses on analyzing a large-scale supply chain dataset from DataCo
 
 Tools & Technologies: 
 
-Data Cleansing & Transformation: Microsoft Excel, Power Query
-Data Modeling & Visualization: Power BI Desktop (DAX, Star Schema Modeling)
-Version Control & Collaboration: GitHub
+- Data Cleansing & Transformation: Microsoft Excel, Power Query
+- Data Modeling & Visualization: Power BI Desktop (DAX, Star Schema Modeling)
+- Version Control & Collaboration: GitHub
 
 
 
 Team Members & Roles:
 
-Mohab Abdelnasser Mahmoud (Project Lead & Data Engineer)
+- Mohab Abdelnasser Mahmoud (Project Lead & Data Engineer)
 - Rahma Mahmoud (Supply Chain & Delivery Analyst)
 - Salma Osama (Financial & Sales Analyst)
 - Sawsan Mohamed (Geographic & Customer Segmentation Analyst)
